@@ -5,7 +5,6 @@ raw-data/*
 processed-data/*
 images/*
 *.pdf
-*.csv
 *.docx
 
 # Compiled source #

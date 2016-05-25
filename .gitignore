@@ -1,11 +1,5 @@
-*.bat
-.ipynb_checkpoints/*
-old/*
-raw-data/*
-processed-data/*
-images/*
-*.pdf
-*.docx
+.ipynb_checkpoints
+text
 
 # Compiled source #
 ###################
